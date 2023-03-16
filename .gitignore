@@ -1,6 +1,6 @@
 node_modules
 .env
 
-# for https
+# for `https
 cert.pem
 key.pem
